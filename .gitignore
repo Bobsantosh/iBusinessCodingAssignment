@@ -1,0 +1,11 @@
+target/
+Reports/
+test-output/
+.settings
+/bin/
+.project
+.classpath
+.metadata
+node_modules
+debug.log
+/.vs
